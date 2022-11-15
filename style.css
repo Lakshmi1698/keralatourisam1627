@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:blue;
+}
+
+
+.navbar{
+    background-color: green;
+    height: 100px;
+}
+.kerala{
+    width: 120%;
+    height: 120%;
+
+}
+.card >img{
+    width: auto;
+    height: 200px;
+}
+.navbar-brand{
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 40px;
+
+}
+
+
+
+
+

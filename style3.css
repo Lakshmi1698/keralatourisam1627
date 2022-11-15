@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+header{
+    background-color:darkcyan;
+}
+    
+#logo{
+    height: 80px;
+
+    margin-left: 10%;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+nav{
+    float: right;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+nav h1{
+    font-size: 40px;
+    color: white;
+    text-decoration: none;
+    margin-right: 100px;
+    
+   
+    font-family:cursive
+}
+.card >img{
+    width: auto;
+    height: 200px;
+}
